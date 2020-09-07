@@ -17,16 +17,16 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       github-slideshow_shingo
+author:      shingonakatamari
+description: Learning about Git-Hub
 
 sass:
   style:     :compressed
 
 ## solarized variant (dark/light)
 solarized:
-  theme:     dark
+  theme: minima
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
